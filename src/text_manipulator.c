@@ -1,4 +1,4 @@
-#include "hw6.h"
+#include "text_manipulator.h"
 
 int main(int argc, char *argv[]) {
     extern char *optarg;
