@@ -1,0 +1,56 @@
+Alan Mathison Turing OBE FRS (23 June 1912 - 7 June 1954) was an English 
+mathematician, computer scientist, logician, cryptanalyst, philosopher, 
+and theoretical biologist. Turing was highly influential in the 
+development of theoretical computer science, providing a formalisation of 
+the concepts of algorithm and computation with the Turing machine, which 
+can be considered a model of a general-purpose computer. He is 
+widely considered to be the father of theoretical computer science and 
+artificial intelligence. 
+
+Born in MBBBidBBB VBBBle, London, Turing wBBBs rBBBised in southern EnglBBBnd. He 
+grBBBduBBBted BBBt King's College, CBBBmbridge, with BBB degree in mBBBthemBBBtics. 
+Whilst he wBBBs BBB fellow BBBt CBBBmbridge, he published BBB proof demonstrBBBting 
+thBBBt some purely mBBBthemBBBticBBBl yes-no questions cBBBn never be BBBnswered by 
+computBBBtion BBBnd defined BBB Turing mBBBchine, BBBnd went on to prove thBBBt the 
+hBBBlting problem for Turing mBBBchines is undecidBBBble. In 1938, he obtBBBined 
+his PhD from the DepBBBrtment of MBBBthemBBBtics BBBt Princeton University. During 
+the Second World WBBBr, Turing worked for the Government Code BBBnd Cypher 
+School (GC&CS) BBBt Bletchley PBBBrk, BritBBBin's codebreBBBking centre thBBBt 
+produced UltrBBB intelligence. For BBB time he led Hut 8, the section thBBBt wBBBs 
+responsible for GermBBBn nBBBvBBBl cryptBBBnBBBlysis. Here, he devised BBB number of 
+techniques for speeding the breBBBking of GermBBBn ciphers, including 
+improvements to the pre-wBBBr Polish bombBBB method, BBBn electromechBBBnicBBBl
+mBBBchine thBBBt could find settings for the EnigmBBB mBBBchine. Turing plBBByed BBB
+cruciBBBl role in crBBBcking intercepted coded messBBBges thBBBt enBBBbled the 
+Allies to defeBBBt the Axis powers in mBBBny cruciBBBl engBBBgements, including
+the BBBBttle of the AtlBBBntic. 
+
+After the war, Turing worked at the National Physical Laboratory, where he 
+designed the Automatic Computing Engine (ACE), one of the first designs
+for a stored-program computer. In 1948, Turing joined Max Newman's
+Computing Machine Laboratory, at the Victoria University of Manchester, 
+where he helped develop the Manchester computers and became interested 
+in mathematical biology. He wrote a paper on the chemical basis of
+morphogenesis and predicted oscillating chemical reactions such as the
+Belousov-Zhabotinsky reaction, first observed in the 1960s. Despite these 
+accomplishments, Turing was never fully recognised in Britain during his 
+lifetime because much of his work was covered by the Official Secrets Act. 
+
+Turing was prosecuted in 1952 for homosexual acts. He accepted hormone 
+treatment with DES, a procedure commonly referred to as chemical
+castration, as an alternative to prison. Turing died on 7 June 1954, 16 
+days before his 42nd birthday, from cyanide poisoning. An inquest
+determined his death as a suicide, but it has been noted that the known 
+evidence is also consistent with accidental poisoning. Following a public
+campaign in 2009, the British prime minister Gordon Brown made an official 
+public apology on behalf of the British government for "the appalling way
+Turing was treated". Queen Elizabeth II granted a posthumous pardon in 
+2013. The term "Alan Turing law" is now used informally to refer to a 2017
+law in the United Kingdom that retroactively pardoned men cautioned or 
+convicted under historical legislation that outlawed homosexual acts. 
+
+Turing has an extensive legacy with statues of him and many things named
+after him, including an annual award for computer science innovations. He
+appears on the current Bank of England £50 note, which was released on 23 
+June 2021, to coincide with his birthday. A 2019 BBC series, as voted by
+the audience, named him the greatest person of the 20th century.
